@@ -1,0 +1,51 @@
+[
+    {
+        "name": "CALINGASAN, JUSTINE A.",
+        "id": "25-15327",
+        "course": "BSIT-1A",
+        "subjects": [
+            {
+                "course": "PATH-FIT2",
+                "grade": "1.67",
+                "units": "2"
+            },
+            {
+                "course": "INTEG",
+                "grade": "2",
+                "units": "3"
+            },
+            {
+                "course": "ADVANCE",
+                "grade": "1",
+                "units": "3"
+            },
+            {
+                "course": "ROTC",
+                "grade": "1",
+                "units": "4"
+            },
+            {
+                "course": "MATH2",
+                "grade": "3",
+                "units": "6"
+            }
+        ]
+    },
+    {
+        "name": "JAS MAHILOM",
+        "id": "25-67677",
+        "course": "BSIT",
+        "subjects": [
+            {
+                "course": "INTEG",
+                "grade": "5",
+                "units": "5"
+            },
+            {
+                "course": "ART",
+                "grade": "5",
+                "units": "5"
+            }
+        ]
+    }
+]
